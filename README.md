@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm appleRtsan</h1>
-<h3 align="center">A passionate student major in mechanics and bio-engineering.</h3>
+<h3 align="center">A passionate student major in mechanics and bio-medical engineering.</h3>
 
 - 🔭 I’m currently working on [eye_track_stimulate_process](https://github.com/appleRtsan/eye_track_stimulate_process)
 
